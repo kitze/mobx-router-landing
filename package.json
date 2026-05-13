@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "@kadira/storybook": "^2.21.0",
-    "custom-react-scripts": "0.0.21",
+    "custom-react-scripts": "0.2.2",
     "plop": "^1.7.3"
   },
   "dependencies": {
